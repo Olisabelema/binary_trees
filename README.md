@@ -470,8 +470,13 @@ Searching for a node in a binary heap of size n
 
 
 Requirements
+
 Betty style guide
+
 gcc compiler
+
 Valgrind
+
 Authors
+
 Belema Olisa
