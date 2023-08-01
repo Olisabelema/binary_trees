@@ -469,14 +469,11 @@ Extracting the root node
 Searching for a node in a binary heap of size n
 
 
-Requirements
+Requirements:
 
-Betty style guide
+Betty style guide;
+gcc compiler;
+Valgrind.
 
-gcc compiler
-
-Valgrind
-
-Authors
-
+Authors:
 Belema Olisa
